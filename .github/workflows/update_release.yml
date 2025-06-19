@@ -57,9 +57,9 @@ jobs:
           sed -i "s/{{ release_number }}/$RELEASE_TAG/g" docs/stylesheets/pdf.css
 
       # Step 6: Run the glossary processing script
-      - name: Generate glossary annex
-        run: |
-          python process_glossary.py
+#      - name: Generate glossary annex
+#        run: |
+#          python process_glossary.py
 
       # Step 7: Set EXPORT_PDF environment variable
       - name: Set EXPORT_PDF environment variable
