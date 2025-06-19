@@ -8,13 +8,13 @@
 
 ## Process Flow {.body}
 
-There are actions defined for NTCIP MIB module creation and maintenance at specific stages of the NTCIP standards development process as defined in NTCIP 8001 v02. The following stages of the NTCIP development process trigger actions of the Data Steward.
+There are actions defined for NTCIP MIB module creation and maintenance at specific stages of the NTCIP standards development process as defined in NTCIP 8001. The following stages of the NTCIP development process trigger actions of the Data Steward.
 
 1. WG Prepares Proposed User Comment Draft (pUCD) Standard
 2. WG Prepares Proposed Recommended Standard (pRS)
 3. NTCIP SDOs Approve Standard
-4. Amended or Revised
-5. Rescinded
+4. NTCIP SDOs Approve an Amendment or Revision to a Standard
+5. NTCIP SDOs Approve to Rescind a Standard
 
 ### WG Prepares Proposed User Comment Draft (pUCD) Standard {.body}
 
