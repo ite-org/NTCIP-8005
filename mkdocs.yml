@@ -1,5 +1,5 @@
-site_name: NTCIP SMI
-site_description: NTCIP Structure of Management Information
+site_name: NTCIP MIB Files
+site_description: Creating Management Information Base (MIB) Files
 repo_url: https://github.com/ite-org/NTCIP-8005
 nav:
   - Front Matter:
